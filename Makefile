@@ -3,16 +3,16 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: mecauchy <mecauchy@student.42.fr>          +#+  +:+       +#+         #
+#    By: mcauchy- <mcauchy-@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/01/22 13:43:22 by mcauchy-          #+#    #+#              #
-#    Updated: 2025/01/28 22:29:34 by mecauchy         ###   ########.fr        #
+#    Updated: 2025/01/29 16:39:37 by mcauchy-         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME		=	pipex
 
-SRCS_FILES	=	pipex.c utils.c ft_error.c error.c
+SRCS_FILES	=	pipex.c utils.c ft_error.c 
 
 SRC_DIR		=	srcs
 
